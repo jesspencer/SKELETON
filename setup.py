@@ -5,9 +5,9 @@ except ImportError:
 
 config = {
     'description': 'My Project',
-    'author': 'My Name',
-    'url': 'URL to get it at.',
-    'author_email': 'My email.',
+    'author': 'Jessica Spencer',
+    'url': 'https://github.com/jesspencer/SKELETON.git.',
+    'author_email': 'jessicaspencer12@gmail.com.',
     'version': '0.1',
     'install_requires':['nose'],
     'packages':['NAME'],
